@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""GTA VI launch-day Twitch CCU forecaster (V2-embedded).
+"""GTA VI launch-day Twitch CCU forecaster (V3, embedded spread 0.0000018).
 
 Forecasts how many people watch Grand Theft Auto VI live on Twitch in each
 hour of its release day (hours 2..24), given everything recorded up to the
